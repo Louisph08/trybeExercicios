@@ -1,2 +1,1 @@
-# trybeExercicios
-um app super ninja que faz coisas sumpimpásticas!
+# Meu repositório de Exercicios

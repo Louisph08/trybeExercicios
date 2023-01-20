@@ -37,6 +37,7 @@ p {
 .list-style{
     font-style: italic;
     color: mediumblue;
+    text-decoration: line-through;
 
 }
 

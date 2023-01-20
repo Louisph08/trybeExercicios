@@ -1,0 +1,41 @@
+h1 {
+    font-weight: bold;
+    font-family: fantasy;
+    font-size: 60px;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: monospace;
+    color: blanchedalmond;
+
+}
+
+body {
+    background-color:crimson;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#habil-style{
+    font-family: cursive;
+    font-size: 20px;
+}
+
+#melhorhabi-style{
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.list-style{
+    font-style: italic;
+
+}
+
+.nacid-style{
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

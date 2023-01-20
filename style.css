@@ -3,12 +3,14 @@ h1 {
     font-family: fantasy;
     font-size: 60px;
     color: gold;
+    background-color: black;
 }
 
 h3 {
     font-size: 30px;
     font-family: monospace;
     color: gold;
+    background-color: black;
 
 }
 
